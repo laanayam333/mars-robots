@@ -1,0 +1,12 @@
+# Node / NPM
+/node_modules
+/npm-debug.log
+
+# Editor
+.vscode
+
+# OS
+.DS_Store
+
+# Project
+dist
